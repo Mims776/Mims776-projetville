@@ -1,0 +1,246 @@
+body{
+    margin: 0 auto;
+  
+    
+    background-color: #f2f2f2;
+    
+    
+
+}
+
+
+img{
+    width: 35vw;
+    height: 30vh;
+
+
+}
+  
+#photo1{
+    text-align: center;
+  
+}
+
+.conteneurnav{
+    display: flex;
+    justify-content: center;
+   position: relative;
+  bottom: 216px;
+color:whitesmoke;
+
+
+
+   
+   
+
+}
+
+#apropos{
+    margin-right: 40px;
+    font-size: 10px;
+}
+ 
+#avoir{
+    margin-right: 35px;
+    font-size: 10px;
+   
+}
+#manger{
+    margin-right: 30px;
+    font-size: 10px;
+}
+
+#enplus{
+    margin-right: 18px;
+    font-size: 10px;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    
+}
+
+p{
+    
+text-align: center;
+font-size: 11px;
+margin :1.2px;
+
+}
+
+.p1 {
+    margin-right: 162px;
+
+}
+
+.p2{
+    margin-right: 85px ;
+}
+
+.bleu{
+    color: blue;
+}
+
+.bleu1 , .bleu2{
+    color: cadetblue;
+}
+
+
+
+
+.img2{
+    width: 22vw;
+    height: 25vh;
+    margin-left: 480px;
+    margin-top: 20px;
+
+}
+
+.conteneurphoto{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 22px;
+ 
+
+}
+
+#photo2{
+    display: flex;
+
+    justify-content: space-around;
+    margin: 20px;
+    color: cadetblue;
+}
+
+h2{
+    margin-left: 70px;
+    font-size: 16px;
+}
+
+#texte1{
+    margin-top: 20px;
+}
+
+.soutexte1{
+    margin-left: 40px;
+}
+
+#photo3{
+    display: flex;
+    
+}
+
+.img3{
+    width: 22vw;
+    height: 25vh;
+    margin-left: 650px;
+  margin-top: -37px;
+}
+
+#texte2{
+    margin-left: -530px;
+    margin-top: -30px;
+    color:cadetblue;
+}
+
+.soutexte2{
+    margin-left: 20px;
+}
+
+.texteapar{
+    margin-right: 240px;
+}
+
+h3{
+    margin-left: 15px;
+}
+
+h4{
+    text-align: center;
+    font-size: 16px;
+}
+
+
+.underline{
+    text-decoration: underline;
+}
+
+.img4{
+margin-left: 500px;
+width: 35vw;
+height: 30vh;
+margin-top: 40px;}
+
+#photo6 , #photo7 , #photo8 , #photo9{
+    width: 7vw;
+    height: 15vh;
+    margin-top: 50px;
+   margin-right: 18px;
+   border-radius: 80%;
+
+}
+
+.containerphoto{
+    display: flex;
+    justify-content: center;
+    margin-left: 16px;
+   
+  
+    
+}
+.containerphoto1{
+    display: flex;
+    justify-content: center;
+    margin-left: 16px;
+   
+  
+    
+}
+
+.img5{
+    margin-left: 490px;
+    width: 36vw;
+    height: 30vh;
+    margin-top: 40px;}
+
+    .texteapar2{
+        margin-right: 243px;
+
+    }
+
+    #photo10 , #photo11 , #photo12 , #photo13{
+        width: 7vw;
+        height: 15vh;
+        margin-top: 50px;
+       margin-right: 16px;
+      
+    
+    }
+
+    .container2{
+        display: flex;
+       margin-top: 20px;
+       margin-left: 480px;
+      
+        justify-content: center;
+        width: 37vw;
+        height: 8vh;
+        background-color: cadetblue;
+       
+        
+    }
+   
+    #mentions{
+    align-items: center;
+   
+     color: white;
+     
+     
+    }
+
+    h5{
+        text-align: center;
+    }
